@@ -1,0 +1,11 @@
+# Dataset stays outside version control
+weatherAUS.csv
+data/
+datasets/
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
